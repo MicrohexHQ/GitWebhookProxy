@@ -1,4 +1,4 @@
-# ![](assets/web/gitwebhookproxy-round-100px.png)  GitWebhookProxy
+# ![](assets/web/gitwebhookproxy-round-100px.png)  GitWebhookProxy 
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/stakater/GitWebhookProxy?style=flat-square)](https://goreportcard.com/report/github.com/stakater/GitWebhookProxy)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/stakater/GitWebhookProxy)
